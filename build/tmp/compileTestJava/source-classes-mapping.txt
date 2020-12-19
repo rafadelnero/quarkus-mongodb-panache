@@ -1,0 +1,2 @@
+com/challenger/KnightResourceTest.java
+ com.challenger.KnightResourceTest

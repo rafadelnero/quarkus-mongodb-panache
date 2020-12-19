@@ -1,6 +1,0 @@
-com/challenger/KnightResource.java
- com.challenger.KnightResource
-com/challenger/Knight.java
- com.challenger.Knight
-com/challenger/KnightRepository.java
- com.challenger.KnightRepository
